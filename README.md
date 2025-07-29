@@ -45,7 +45,7 @@ Place your raw text file as all.txt in the same folder as the script.
 
 Run the script:
 
-python extract_profiles.py
+TXT to Excel Sales Navigator.ipynb
 
 The output Excel file linkedin_extracted.xlsx will appear in the same directory.
 
